@@ -1,0 +1,10 @@
+name: superstore-dashboard
+title:
+username: oliver-yawlui
+account: oliver-yawlui
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17487848
+bundleId: 12105621
+url: https://oliver-yawlui.shinyapps.io/superstore-dashboard/
+version: 1
